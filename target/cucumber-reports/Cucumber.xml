@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="4" time="17.668257">
+    <testcase classname="Cadastrar tipo de contratação" name="Cadastro de tipo de contratação com sucesso" time="5.517642">
+        <system-out>
+            <![CDATA[Dado Acessar a página de cadastro de tipo de contratação....................passed
+E Selecionar o funcionário "Ana Paula dos Santos"...........................passed
+E Selecionar o tipo de contratação "Estagio"................................passed
+Quando Confirmar a realização do cadastro...................................passed
+Então Sistema exibe a mensagem "Dados atualizados com sucesso"..............passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Cadastrar tipo de contratação" name="Cadastro de tipo de contratação com sucesso 2" time="3.728163">
+        <system-out>
+            <![CDATA[Dado Acessar a página de cadastro de tipo de contratação....................passed
+E Selecionar o funcionário "Carlos Alberto Souza"...........................passed
+E Selecionar o tipo de contratação "CLT"....................................passed
+Quando Confirmar a realização do cadastro...................................passed
+Então Sistema exibe a mensagem "Dados atualizados com sucesso"..............passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Cadastrar tipo de contratação" name="Cadastro de tipo de contratação com sucesso 3" time="4.169125">
+        <system-out>
+            <![CDATA[Dado Acessar a página de cadastro de tipo de contratação....................passed
+E Selecionar o funcionário "Eduardo Souza"..................................passed
+E Selecionar o tipo de contratação "Pessoa Jurídica"........................passed
+Quando Confirmar a realização do cadastro...................................passed
+Então Sistema exibe a mensagem "Dados atualizados com sucesso"..............passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Cadastrar tipo de contratação" name="Validação de campos obrigatórios" time="4.253327">
+        <system-out>
+            <![CDATA[Dado Acessar a página de cadastro de tipo de contratação....................passed
+Quando Confirmar a realização do cadastro...................................passed
+Então Sistema informa que a seleção do funcionário é obrigatória............passed
+E Sistema informa que a seleção do tipo de contratação é obrigatória........passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>

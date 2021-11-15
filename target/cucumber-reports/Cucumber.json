@@ -1,0 +1,335 @@
+[
+  {
+    "line": 4,
+    "elements": [
+      {
+        "line": 20,
+        "name": "Cadastro de tipo de contratação com sucesso",
+        "description": "\tRealizar o cadastro de tipo de contratação para um funcionário com sucesso.",
+        "id": "cadastrar-tipo-de-contratação;cadastro-de-tipo-de-contratação-com-sucesso;;2",
+        "type": "scenario",
+        "keyword": "Esquema do Cenário",
+        "steps": [
+          {
+            "result": {
+              "duration": 4468023500,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "Acessar a página de cadastro de tipo de contratação",
+            "match": {
+              "location": "CadastrarTipoDeContratacaoTest.acessar_a_página_de_cadastro_de_tipo_de_contratação()"
+            },
+            "keyword": "Dado "
+          },
+          {
+            "result": {
+              "duration": 258101200,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "Selecionar o funcionário \"Ana Paula dos Santos\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Ana Paula dos Santos",
+                  "offset": 26
+                }
+              ],
+              "location": "CadastrarTipoDeContratacaoTest.selecionar_o_funcionário(String)"
+            },
+            "keyword": "E "
+          },
+          {
+            "result": {
+              "duration": 146974600,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "Selecionar o tipo de contratação \"Estagio\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Estagio",
+                  "offset": 34
+                }
+              ],
+              "location": "CadastrarTipoDeContratacaoTest.selecionar_o_tipo_de_contratação(String)"
+            },
+            "keyword": "E "
+          },
+          {
+            "result": {
+              "duration": 368742300,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "Confirmar a realização do cadastro",
+            "match": {
+              "location": "CadastrarTipoDeContratacaoTest.confirmar_a_realização_do_cadastro()"
+            },
+            "keyword": "Quando "
+          },
+          {
+            "result": {
+              "duration": 217125500,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "Sistema exibe a mensagem \"Dados atualizados com sucesso\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Dados atualizados com sucesso",
+                  "offset": 26
+                }
+              ],
+              "location": "CadastrarTipoDeContratacaoTest.sistema_exibe_a_mensagem(String)"
+            },
+            "keyword": "Então "
+          }
+        ]
+      },
+      {
+        "line": 21,
+        "name": "Cadastro de tipo de contratação com sucesso",
+        "description": "\tRealizar o cadastro de tipo de contratação para um funcionário com sucesso.",
+        "id": "cadastrar-tipo-de-contratação;cadastro-de-tipo-de-contratação-com-sucesso;;3",
+        "type": "scenario",
+        "keyword": "Esquema do Cenário",
+        "steps": [
+          {
+            "result": {
+              "duration": 2750074100,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "Acessar a página de cadastro de tipo de contratação",
+            "match": {
+              "location": "CadastrarTipoDeContratacaoTest.acessar_a_página_de_cadastro_de_tipo_de_contratação()"
+            },
+            "keyword": "Dado "
+          },
+          {
+            "result": {
+              "duration": 235435500,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "Selecionar o funcionário \"Carlos Alberto Souza\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Carlos Alberto Souza",
+                  "offset": 26
+                }
+              ],
+              "location": "CadastrarTipoDeContratacaoTest.selecionar_o_funcionário(String)"
+            },
+            "keyword": "E "
+          },
+          {
+            "result": {
+              "duration": 130017400,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "Selecionar o tipo de contratação \"CLT\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "CLT",
+                  "offset": 34
+                }
+              ],
+              "location": "CadastrarTipoDeContratacaoTest.selecionar_o_tipo_de_contratação(String)"
+            },
+            "keyword": "E "
+          },
+          {
+            "result": {
+              "duration": 393709700,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "Confirmar a realização do cadastro",
+            "match": {
+              "location": "CadastrarTipoDeContratacaoTest.confirmar_a_realização_do_cadastro()"
+            },
+            "keyword": "Quando "
+          },
+          {
+            "result": {
+              "duration": 203008500,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "Sistema exibe a mensagem \"Dados atualizados com sucesso\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Dados atualizados com sucesso",
+                  "offset": 26
+                }
+              ],
+              "location": "CadastrarTipoDeContratacaoTest.sistema_exibe_a_mensagem(String)"
+            },
+            "keyword": "Então "
+          }
+        ]
+      },
+      {
+        "line": 22,
+        "name": "Cadastro de tipo de contratação com sucesso",
+        "description": "\tRealizar o cadastro de tipo de contratação para um funcionário com sucesso.",
+        "id": "cadastrar-tipo-de-contratação;cadastro-de-tipo-de-contratação-com-sucesso;;4",
+        "type": "scenario",
+        "keyword": "Esquema do Cenário",
+        "steps": [
+          {
+            "result": {
+              "duration": 2945461600,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "Acessar a página de cadastro de tipo de contratação",
+            "match": {
+              "location": "CadastrarTipoDeContratacaoTest.acessar_a_página_de_cadastro_de_tipo_de_contratação()"
+            },
+            "keyword": "Dado "
+          },
+          {
+            "result": {
+              "duration": 266643800,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "Selecionar o funcionário \"Eduardo Souza\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Eduardo Souza",
+                  "offset": 26
+                }
+              ],
+              "location": "CadastrarTipoDeContratacaoTest.selecionar_o_funcionário(String)"
+            },
+            "keyword": "E "
+          },
+          {
+            "result": {
+              "duration": 254975000,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "Selecionar o tipo de contratação \"Pessoa Jurídica\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Pessoa Jurídica",
+                  "offset": 34
+                }
+              ],
+              "location": "CadastrarTipoDeContratacaoTest.selecionar_o_tipo_de_contratação(String)"
+            },
+            "keyword": "E "
+          },
+          {
+            "result": {
+              "duration": 437586000,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "Confirmar a realização do cadastro",
+            "match": {
+              "location": "CadastrarTipoDeContratacaoTest.confirmar_a_realização_do_cadastro()"
+            },
+            "keyword": "Quando "
+          },
+          {
+            "result": {
+              "duration": 257008700,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "Sistema exibe a mensagem \"Dados atualizados com sucesso\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Dados atualizados com sucesso",
+                  "offset": 26
+                }
+              ],
+              "location": "CadastrarTipoDeContratacaoTest.sistema_exibe_a_mensagem(String)"
+            },
+            "keyword": "Então "
+          }
+        ]
+      },
+      {
+        "line": 24,
+        "name": "Validação de campos obrigatórios",
+        "description": "\tTodos os campos são obrigatórios para o cadastro do tipo de contratação.",
+        "id": "cadastrar-tipo-de-contratação;validação-de-campos-obrigatórios",
+        "type": "scenario",
+        "keyword": "Cenário",
+        "steps": [
+          {
+            "result": {
+              "duration": 3268643500,
+              "status": "passed"
+            },
+            "line": 27,
+            "name": "Acessar a página de cadastro de tipo de contratação",
+            "match": {
+              "location": "CadastrarTipoDeContratacaoTest.acessar_a_página_de_cadastro_de_tipo_de_contratação()"
+            },
+            "keyword": "Dado "
+          },
+          {
+            "result": {
+              "duration": 457763700,
+              "status": "passed"
+            },
+            "line": 28,
+            "name": "Confirmar a realização do cadastro",
+            "match": {
+              "location": "CadastrarTipoDeContratacaoTest.confirmar_a_realização_do_cadastro()"
+            },
+            "keyword": "Quando "
+          },
+          {
+            "result": {
+              "duration": 282407300,
+              "status": "passed"
+            },
+            "line": 29,
+            "name": "Sistema informa que a seleção do funcionário é obrigatória",
+            "match": {
+              "location": "CadastrarTipoDeContratacaoTest.sistema_informa_que_a_seleção_do_funcionário_é_obrigatória()"
+            },
+            "keyword": "Então "
+          },
+          {
+            "result": {
+              "duration": 238820400,
+              "status": "passed"
+            },
+            "line": 30,
+            "name": "Sistema informa que a seleção do tipo de contratação é obrigatória",
+            "match": {
+              "location": "CadastrarTipoDeContratacaoTest.sistema_informa_que_a_seleção_do_tipo_de_contratação_é_obrigatória()"
+            },
+            "keyword": "E "
+          }
+        ]
+      }
+    ],
+    "name": "Cadastrar tipo de contratação",
+    "description": "\tcomo um usuário habilitado do sistema\n\teu quero cadastrar o tipo de contratação dos funcionários\n\tpara que eu possa gerenciar funcionários",
+    "id": "cadastrar-tipo-de-contratação",
+    "keyword": "Funcionalidade",
+    "uri": "Features/CadastrarTipoDeContratacao.feature",
+    "tags": []
+  }
+]

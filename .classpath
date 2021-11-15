@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Estudo_QA/Workspace/selenium-java-3.141.59/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Estudo_QA/Workspace/selenium-java-3.141.59/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Estudo_QA/Workspace/selenium-java-3.141.59/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Estudo_QA/Workspace/selenium-java-3.141.59/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Estudo_QA/Workspace/selenium-java-3.141.59/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Estudo_QA/Workspace/selenium-java-3.141.59/libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Estudo_QA/Workspace/selenium-java-3.141.59/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Estudo_QA/Workspace/libs-selenium-cucumber/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Estudo_QA/Workspace/libs-selenium-cucumber/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Estudo_QA/Workspace/libs-selenium-cucumber/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Estudo_QA/Workspace/libs-selenium-cucumber/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Estudo_QA/Workspace/libs-selenium-cucumber/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Estudo_QA/Workspace/libs-selenium-cucumber/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Estudo_QA/Workspace/libs-selenium-cucumber/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Estudo_QA/Workspace/libs-selenium-cucumber/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Estudo_QA/Workspace/libs-selenium-cucumber/cucumber-core-2.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Estudo_QA/Workspace/libs-selenium-cucumber/cucumber-html-0.2.7.jar"/>
+	<classpathentry kind="lib" path="C:/Estudo_QA/Workspace/libs-selenium-cucumber/cucumber-java-2.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Estudo_QA/Workspace/libs-selenium-cucumber/cucumber-junit-2.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Estudo_QA/Workspace/libs-selenium-cucumber/cucumber-jvm-deps-1.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Estudo_QA/Workspace/libs-selenium-cucumber/cucumber-reporting-2.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Estudo_QA/Workspace/libs-selenium-cucumber/gherkin-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Estudo_QA/Workspace/libs-selenium-cucumber/gherkin-jvm-deps-1.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Estudo_QA/Workspace/libs-selenium-cucumber/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Estudo_QA/Workspace/libs-selenium-cucumber/jackson-annotations-2.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Estudo_QA/Workspace/libs-selenium-cucumber/jackson-core-2.7.4.jar"/>
+	<classpathentry kind="lib" path="C:/Estudo_QA/Workspace/libs-selenium-cucumber/jackson-databind-2.7.4.jar"/>
+	<classpathentry kind="lib" path="C:/Estudo_QA/Workspace/libs-selenium-cucumber/joda-time-2.9.4.jar"/>
+	<classpathentry kind="lib" path="C:/Estudo_QA/Workspace/libs-selenium-cucumber/jsoup-1.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/Estudo_QA/Workspace/libs-selenium-cucumber/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Estudo_QA/Workspace/libs-selenium-cucumber/log4j-api-2.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Estudo_QA/Workspace/libs-selenium-cucumber/log4j-core-2.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Estudo_QA/Workspace/libs-selenium-cucumber/mockito-all-1.10.19.jar"/>
+	<classpathentry kind="lib" path="C:/Estudo_QA/Workspace/libs-selenium-cucumber/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Estudo_QA/Workspace/libs-selenium-cucumber/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Estudo_QA/Workspace/libs-selenium-cucumber/plexus-utils-3.0.24.jar"/>
+	<classpathentry kind="lib" path="C:/Estudo_QA/Workspace/libs-selenium-cucumber/velocity-1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Estudo_QA/Workspace/libs-selenium-cucumber/velocity-tools-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Estudo_QA/Workspace/libs-selenium-cucumber/zip4j-1.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Estudo_QA/Workspace/commons-io-2.11.0/commons-io-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Estudo_QA/Workspace/commons-io-2.11.0/commons-io-2.11.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Estudo_QA/Workspace/commons-io-2.11.0/commons-io-2.11.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Estudo_QA/Workspace/commons-io-2.11.0/commons-io-2.11.0-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Estudo_QA/Workspace/commons-io-2.11.0/commons-io-2.11.0-test-sources.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
